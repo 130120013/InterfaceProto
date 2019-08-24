@@ -1,3 +1,3 @@
 ﻿let num = "ten";
 
-window.onload = () => { alert(num); };
+//window.onload = () => { alert(num); };
